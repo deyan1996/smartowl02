@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" style="max-width: 60%;" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" width="40%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🌱 What do I do?<h3>A senior full stack web developer proficient in fundamental
 front-end languages and server-side languages.<h3>
