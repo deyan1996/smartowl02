@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dejan Petrovic</h1>
+<h1 align="center">Hi 👋, I'm Dejan</h1>
 <h3 align="center">Senior Full Stack Developer🌟.</h3>
 
 <br>
@@ -13,19 +13,12 @@
 
 - 🌱 What do I do?<h3>A senior full stack web developer proficient in fundamental
 front-end languages and server-side languages.<h3>
-
-- 📫 How to reach me<h3> **dejanpetrovickgy@gmail.com**</h3>
-
+    
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="http://www.linkedin.com/in/dejan-petrovic-139b41246" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-</p>
 
 <br>
 
