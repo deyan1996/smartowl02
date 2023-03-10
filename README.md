@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Everyone/h1>
+<h1 align="center">Hi 👋, Everyone</h1>
 <h3 align="center">Senior Blockchain & Full Stack Developer🌟.</h3>
 
 <br>
