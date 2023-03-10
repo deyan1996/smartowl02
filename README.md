@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dejan</h1>
-<h3 align="center">Senior Full Stack Developer🌟.</h3>
+<h1 align="center">Hi 👋, Everyone/h1>
+<h3 align="center">Senior Blockchain & Full Stack Developer🌟.</h3>
 
 <br>
 
